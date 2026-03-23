@@ -1,0 +1,10 @@
+flask
+flask-cors
+ollama
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+numpy

@@ -1,0 +1,23 @@
+# Virtual environment — never upload this (500MB+)
+myenv/
+
+# ChromaDB vector store — rebuilt by running ingest.py
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# HuggingFace model cache
+.cache/
